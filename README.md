@@ -25,44 +25,9 @@ I'm a Software Engineering student at Universiti Kebangsaan Malaysia (UKM), curr
 * AI-assisted applications
 * Exploring real-world technology solutions
 
-### Tools & Technologies
+Tools & Technologies
 
-**Languages**
-
-* Python
-* PHP
-* JavaScript
-* HTML & CSS
-* Java
-* SQL
-
-**Development**
-
-* Git & GitHub
-* Visual Studio Code
-* MAMP
-* XAMPP
-* phpMyAdmin
-* MySQL
-
-**Data & Analytics**
-
-* Power BI
-* Microsoft Excel
-* Power Query
-
-**Software & Multimedia**
-
-* Unity
-* Android Studio
-* Adobe Illustrator
-
-**Currently Exploring**
-
-* AI integration
-* Data visualization
-* Interactive dashboards
-* Web application development
+Python · PHP · JavaScript · Java · SQL · HTML/CSS · MySQL · Power BI · Git/GitHub · Unity · Android Studio
 
 ### Get in Touch
 
