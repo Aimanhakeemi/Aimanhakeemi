@@ -1,8 +1,8 @@
-# Hi, I'm Aiman Hakeemi
+# Aiman Hakeemi 🐐
 
-Software Engineering student at **Universiti Kebangsaan Malaysia (UKM)**, currently gaining industry experience as an **Intern at PETRONAS**.
+Software Engineering student at **`Universiti Kebangsaan Malaysia (UKM)`**, currently gaining industry experience as an **`Intern at PETRONAS`**.
 
-Interested in **Software Development, Data Analytics, Artificial Intelligence, and Web Technologies**.
+Interested in **`Software Development, Data Analytics, Artificial Intelligence, and Web Technologies`**.
 
 - Currently working on software and data-driven solutions
 - Currently learning Python, Power BI, Power Query & Data Analytics
