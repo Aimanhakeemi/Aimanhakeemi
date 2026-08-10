@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Aiman
+# I'm Aiman
 
 I'm a Software Engineering student at Universiti Kebangsaan Malaysia (UKM), currently gaining industry experience as an intern at PETRONAS.
 
