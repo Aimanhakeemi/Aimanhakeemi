@@ -1,4 +1,4 @@
-# Aiman Hakeemi 🐐
+# Hey 👋, Aiman Hakeemi 🐐
 
 Software Engineering student at **`Universiti Kebangsaan Malaysia (UKM)`**, currently gaining industry experience as an **`Intern at PETRONAS`**.
 
@@ -35,13 +35,11 @@ Interested in **`Software Development, Data Analytics, Artificial Intelligence, 
 
 ---
 
-## Skills
+### 🔨 Languages and Tools:
 
 <tr>
 
-<td valign="top" width="33%">
-
-### I Have
+<td valign="top" width="50%" align="center">
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php" />
@@ -54,8 +52,6 @@ Interested in **`Software Development, Data Analytics, Artificial Intelligence, 
 </td>
 
 <td valign="top" width="33%">
-
-### I'm Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,powerbi" />
@@ -80,8 +76,6 @@ Interested in **`Software Development, Data Analytics, Artificial Intelligence, 
 </td>
 
 <td valign="top" width="33%">
-
-### Worked With
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,androidstudio" />
