@@ -37,7 +37,6 @@ Interested in **`Software Development, Data Analytics, Artificial Intelligence, 
 
 ## Skills
 
-<table>
 <tr>
 
 <td valign="top" width="33%">
@@ -59,7 +58,7 @@ Interested in **`Software Development, Data Analytics, Artificial Intelligence, 
 ### I'm Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi" />
 </p>
 
 <p>
