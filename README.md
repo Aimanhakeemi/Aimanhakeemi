@@ -15,10 +15,6 @@
   />
 </p>
 
-<p align="center">
-  <i>Building software, exploring data, and turning ideas into useful solutions.</i>
-</p>
-
 ---
 
 ## 🚀 About Me
