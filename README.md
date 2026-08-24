@@ -2,11 +2,7 @@
 
 <h3 align="center">Software Engineering Student from Malaysia 🇲🇾</h3>
 
-<p align="center">
-  <b>Universiti Kebangsaan Malaysia (UKM)</b>
-  &nbsp; • &nbsp;
-  Intern at <b>PETRONAS</b>
-</p>
+
 
 <p align="center">
   <img
