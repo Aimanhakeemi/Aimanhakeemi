@@ -17,10 +17,8 @@
 
 ```javascript
 const aiman = {
-  role: "Software Engineering Student",
-  university: "Universiti Kebangsaan Malaysia (UKM)",
-  experience: "Intern @ PETRONAS",
-
+  role: "Software Engineering (Multimedia Systems Development) Student",
+ 
   focus: [
     "Software Development",
     "Data Analytics",
