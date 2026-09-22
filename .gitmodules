@@ -1,0 +1,3 @@
+[submodule "skills/claude-watch"]
+	path = skills/claude-watch
+	url = https://github.com/taoufik123-collab/claude-watch.git
